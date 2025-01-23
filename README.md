@@ -75,8 +75,12 @@ The notebook is organized into the following steps:
 
 - Visualize regression results using Seaborn regression plots.
 
+![1 1](https://github.com/user-attachments/assets/4c86ade3-b448-4d64-ad72-4d3e80f80215)
+
 ### 5. **Feature Importance Analysis**
 - Calculate and visualize feature importance for each model.
+
+![1 2](https://github.com/user-attachments/assets/2b81ce05-e410-438f-8727-0f5a833670ac)
 
 ### 6. **Prediction and Submission**
 - Predict house prices for test data using the trained models.
