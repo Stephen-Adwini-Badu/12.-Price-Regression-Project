@@ -94,7 +94,7 @@ The notebook is organized into the following steps:
 ---
 
 ## Conclusion
-This notebook provides a structured approach to price regression using ensemble learning techniques. It combines robust preprocessing, powerful models, and insightful visualizations to achieve meaningful predictions. For further experimentation, users can integrate additional models or techniques tailored to their specific datasets.
+This notebook provides a structured approach to price regression using ensemble learning techniques. It combines robust preprocessing, powerful models, and insightful visualizations to achieve meaningful predictions.
 
 ---
 
