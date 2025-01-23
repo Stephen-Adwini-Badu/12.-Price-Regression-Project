@@ -1,4 +1,4 @@
-# Price Regression Notebook - README
+# Price Regression Project
 
 ## Overview
 This notebook demonstrates a price regression analysis using advanced machine learning techniques. The objective is to build predictive models for housing prices, leveraging data preprocessing, feature engineering, and model evaluation methodologies.
