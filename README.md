@@ -43,34 +43,34 @@ The notebook is organized into the following steps:
   - R-squared (R²)
 
 <table align="center">
-<tr>
-  <th>MODEL</th>
-  <th>MAE</th>
-  <th>MSE</th>
-  <th>MAPE</th>
-  <th>R²</th>
-</tr>
-<tr>
-  <td>Random Forest Regressor</td>
-  <td align="center">16481.799</td>
-  <td align="center">748898123.0</td>
-  <td align="center">0.090703</td>
-  <td align="center">0.865105</td>
-</tr>
-<tr>
-  <td>Gradient Boosting Regressor</td>
-  <td align="center">18049.904</td>
-  <td align="center">808275129.0</td>
-  <td align="center">0.098866</td>
-  <td align="center">0.867677</td>
-</tr>
-<tr>
-  <td>X Gradient Boosting Regressor</td>
-  <td align="center">15938.766</td>
-  <td align="center">734109206.0</td>
-  <td align="center">0.086630</td>
-  <td align="center">0.870763</td>
-</tr>
+ <tr>
+   <th>MODEL</th>
+   <th>MAE</th>
+   <th>MSE</th>
+   <th>MAPE</th>
+   <th>R²</th>
+ </tr>
+ <tr>
+   <td>Random Forest Regressor</td>
+   <td align="center">16481.799</td>
+   <td align="center">748898123.0</td>
+   <td align="center">0.090703</td>
+   <td align="center">0.865105</td>
+ </tr>
+ <tr>
+   <td>Gradient Boosting Regressor</td>
+   <td align="center">18049.904</td>
+   <td align="center">808275129.0</td>
+   <td align="center">0.098866</td>
+   <td align="center">0.867677</td>
+ </tr>
+ <tr>
+   <td>X Gradient Boosting Regressor</td>
+   <td align="center">15938.766</td>
+   <td align="center">734109206.0</td>
+   <td align="center">0.086630</td>
+   <td align="center">0.870763</td>
+ </tr>
 </table>
 
 - Visualize regression results using Seaborn regression plots.
