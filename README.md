@@ -77,6 +77,15 @@ The notebook is organized into the following steps:
 
 ![1 1](https://github.com/user-attachments/assets/4c86ade3-b448-4d64-ad72-4d3e80f80215)
 
+- **Further Model Evaluation (Comparing Original to Predicted data)**
+  - Model Accuracy: Assessing how closely the predictions match the actual values.
+  - Error Analysis: Identifying patterns in the prediction errors to improve the model.
+  - Bias Detection: Detecting systematic biases that may affect the predictions.
+  - Trend Identification: Spoting underlying trends and patterns in the data.
+  - Model Generalization: Evaluating how well the model performs on unseen data.
+
+![12](https://github.com/user-attachments/assets/7ee1ccf9-6f3f-4310-a389-05ab7b1939e3)
+
 ### 5. **Feature Importance Analysis**
 - Calculate and visualize feature importance for each model.
 
